@@ -18,14 +18,17 @@ All queries are based on the SQLZoo datasets:
 
 ## Repository structure
 
-01_SELECT_basic
+[01_SELECT_basic](https://github.com/mag-rac/sql-practice/blob/main/01_SELECT_basic.sql)
 Basic queries: selecting columns, filtering rows.
 
-02_SELECT_from_World
+[02_SELECT_from_World](https://github.com/mag-rac/sql-practice/blob/main/02_SELECT_from_World.sql)
 Working with real dataset of countries (population, area, GDP)
 
-03_SELECT_from_Nobel
+[03_SELECT_from_Nobel](https://github.com/mag-rac/sql-practice/blob/main/03_SELECT_from_Nobel.sql)
 Queries on Nobel Prize winners: dates, categories, countries.
+
+[04_SELECT_in_SELECT](https://github.com/mag-rac/sql-practice/blob/main/04_SELECT_in_SELECT.sql)
+
 
 Each file contains:
 - the exercise discription
