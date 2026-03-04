@@ -1,6 +1,6 @@
 -- Dataset: World
 -- Table: world
--- Columns used: name, population, area
+-- Columns used: name, area, population
 
 -- Question 1:
 -- Show the population of Germany.
