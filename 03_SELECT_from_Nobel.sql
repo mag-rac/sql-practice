@@ -1,6 +1,6 @@
 -- Dataset: Nobel
 -- Table: nobel
--- Columns used: yr, subject, winnername, continent, population, GDP, area, capital
+-- Columns used: yr, subject, winnername
 
 -- Question 1:
 -- Change the query shown so that it displays Nobel prizes for 1950.
