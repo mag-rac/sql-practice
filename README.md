@@ -29,6 +29,15 @@ Queries on Nobel Prize winners: dates, categories, countries.
 
 [04_SELECT_in_SELECT](https://github.com/mag-rac/sql-practice/blob/main/04_SELECT_in_SELECT.sql)
 
+[05_SUM_and_COUNT](https://github.com/mag-rac/sql-practice/blob/main/05_SUM_and_COUNT.sql)
+
+[06_JOIN](https://github.com/mag-rac/sql-practice/blob/main/06_JOIN.sql)
+
+[07_more_JOIN](https://github.com/mag-rac/sql-practice/blob/main/07_more_JOIN.sql)
+
+[08_using_NULL](https://github.com/mag-rac/sql-practice/blob/main/08_using_NULL.sql)
+
+[09_self_JOIN](https://github.com/mag-rac/sql-practice/blob/main/09__self_JOIN.sql)
 
 Each file contains:
 - the exercise discription
